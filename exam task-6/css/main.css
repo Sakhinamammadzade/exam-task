@@ -1,0 +1,189 @@
+a {
+  text-decoration: none;
+}
+
+.all {
+  position: relative;
+  width: 100%;
+  height: 120vh;
+  background-color: #313236;
+}
+
+.all .card-one {
+  position: absolute;
+  top: 3%;
+  left: 20px;
+  width: 25%;
+  height: 280px;
+  background-color: #3E3F43;
+  border-radius: 3mm;
+}
+
+.all .card-one .search {
+  width: 240px;
+  height: 33px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: #313236;
+}
+
+.all .card-one .search .icon {
+  color: #fff;
+  margin-left: 10px;
+}
+
+.all .card-one .search .input {
+  height: 100%;
+  padding-left: 10px;
+  background-color: #313236;
+  border: none;
+  outline: none;
+}
+
+.all .card-one ul {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.all .card-one ul .colorfull-li a {
+  color: aqua;
+}
+
+.all .card-one ul li {
+  line-height: 25px;
+}
+
+.all .card-one ul li a {
+  color: #fff;
+}
+
+.all .card-two {
+  position: absolute;
+  top: 47%;
+  width: 44%;
+  height: 60px;
+  background-color: #3E3F43;
+  border-radius: 1mm;
+  margin-left: 20px;
+}
+
+.all .card-two .search {
+  width: 240px;
+  height: 33px;
+  margin-left: 20px;
+  margin-top: 5px;
+  background-color: #3E3F43;
+  border: none;
+}
+
+.all .card-two .search i {
+  color: #fff;
+}
+
+.all .card-two .search .input {
+  background-color: #3E3F43;
+  border: none;
+  outline: none;
+}
+
+.all .card-two .box ul .main-li {
+  margin-top: 18px;
+  padding-right: 15px;
+}
+
+.all .card-two .box ul li a {
+  color: #fff;
+  margin-left: 20px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.all .card-two .box ul .project {
+  border-radius: 4mm;
+  padding: 5px 15px;
+  background-color: #313236;
+  margin-top: 15px;
+}
+
+.all .card-two .box ul .project a {
+  display: inline-block;
+  color: aqua;
+  padding-right: 15px;
+}
+
+.all .card-there {
+  position: absolute;
+  top: 60%;
+  width: 25%;
+  height: 250px;
+  background-color: #3E3F43;
+  border-radius: 3mm;
+  margin-left: 20px;
+}
+
+.all .card-there .up {
+  width: 200px;
+  margin-top: 25px;
+  color: #fff;
+}
+
+.all .card-there .up p {
+  font-weight: 600;
+  padding-left: 10px;
+}
+
+.all .card-there .up .input-1 {
+  background-color: #313236;
+  border: none;
+  outline: none;
+  color: #fff;
+  border-radius: 1mm;
+  margin-left: 45px;
+}
+
+.all .card-there .down {
+  width: 200px;
+  margin-top: 20px;
+}
+
+.all .card-there .down P {
+  color: #fff;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+.all .card-there .down .input-2 {
+  border-radius: 1mm;
+  margin-left: 75px;
+  border: none;
+  outline: none;
+  color: #fff;
+  background-color: #313236;
+}
+
+.all .card-there hr {
+  width: 300px;
+  height: 2px;
+  background-color: #272829;
+  margin-left: 4px;
+  margin-top: 30px;
+}
+
+.all .card-there .bottom {
+  margin-top: 10px;
+}
+
+.all .card-there .bottom p {
+  color: grey;
+  font-weight: 600;
+  margin-left: -30px;
+}
+
+.all .card-there .bottom button {
+  border: none;
+  background-color: #34d1f8;
+  border-radius: 4mm;
+  color: #fff;
+  font-weight: 600;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,137 @@
+section {
+  position: relative;
+  margin-left: 30px;
+  width: 90%;
+  height: 100vh;
+  background-color: #F7F8FC;
+  border-left: 2px solid darkblue;
+  border-bottom: 2px solid darkblue;
+}
+
+section .top {
+  position: absolute;
+  top: 20px;
+  margin-left: 40px;
+  width: 45%;
+  height: 120px;
+  background-color: #fff;
+}
+
+section .top .text {
+  margin-top: 33px;
+  margin-left: 20px;
+}
+
+section .top .text p {
+  font-size: 15px;
+  color: grey;
+}
+
+section .top .text a {
+  color: grey;
+}
+
+section .top .left {
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+section .top .left i {
+  font-size: 30px;
+  color: darkblue;
+}
+
+section .top .right {
+  margin-right: 12px;
+}
+
+section .top .right button {
+  border: none;
+  padding: 8px 20px;
+  border-radius: 1mm;
+  background-color: #050525;
+  color: #fff;
+}
+
+section .bottom-boxs .card-one {
+  margin-top: 50%;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 350px;
+  height: 150px;
+  margin-left: 50px;
+  background-color: #10182F;
+  border-radius: 1mm;
+}
+
+section .bottom-boxs .card-one .text-top {
+  margin-left: 20px;
+  margin-top: 14px;
+  color: #fff;
+  font-size: 14px;
+  width: 80%;
+}
+
+section .bottom-boxs .card-one .text-top a {
+  display: inline-block;
+  color: #fff;
+}
+
+section .bottom-boxs .card-one .text-bottom {
+  margin-left: 80px;
+}
+
+section .bottom-boxs .card-one .text-bottom p {
+  color: #fff;
+  margin-left: 10px;
+}
+
+section .bottom-boxs .card-one .text-bottom button {
+  margin-bottom: 10px;
+  margin-left: 60px;
+  border-radius: 2mm;
+  border: none;
+  width: 140px;
+}
+
+section .bottom-boxs .card-two {
+  position: absolute;
+  margin-top: 25%;
+  top: 100%;
+  left: 50%;
+  width: 350px;
+  height: 250px;
+  margin-left: 90%;
+  background-color: #10182F;
+  border-radius: 1mm;
+}
+
+section .bottom-boxs .card-two .text p {
+  color: #fff;
+  text-align: center;
+}
+
+section .bottom-boxs .card-two .text a {
+  margin-left: 35%;
+  color: #fff;
+  text-align: center;
+  margin-top: 10px;
+}
+
+section .bottom-boxs .card-two button {
+  margin-left: 40%;
+  width: 80px;
+  height: 30px;
+  border-radius: 2mm;
+  border: none;
+  margin-top: 20px;
+}
+
+section .bottom-boxs .card-two i {
+  margin-top: 30px;
+  font-size: 30px;
+  margin-left: 45%;
+  color: #fff;
+}
+/*# sourceMappingURL=main.css.map */

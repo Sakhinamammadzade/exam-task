@@ -1,0 +1,190 @@
+section{
+    position: relative;
+    margin-left: 30px;
+    width: 90%;
+    height: 100vh;
+    background-color:#F7F8FC;
+    border-left:2px solid darkblue ;
+    border-bottom:2px solid darkblue ;
+    .top{
+        position: absolute;
+        top: 20px;
+        margin-left: 40px;
+        width: 45%;
+        height: 120px;
+        background-color: #fff;
+
+        .text{
+            margin-top: 33px;
+            margin-left: 20px;
+            p{
+                font-size: 15px;
+              
+                color: grey;
+            }
+            a{  
+                color: grey;
+               
+                
+            }
+        }
+
+
+        .left{
+            margin-left: 15px;
+            margin-bottom: 10px;
+            i{
+                font-size: 30px;
+                color: darkblue;
+            }
+        }
+
+        .right{
+          
+            margin-right: 12px;
+            button{
+                border: none;
+                padding: 8px 20px;
+                border-radius: 1mm;
+                background-color: rgb(5, 5, 37);
+                color: #fff;
+
+            }
+        }
+        
+    }
+
+ .bottom-boxs{
+   
+  
+    .card-one{
+        margin-top: 50%;
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        width: 350px;
+        height: 150px;
+        margin-left: 50px;
+        background-color:#10182F;
+        border-radius: 1mm;
+
+        .text-top{
+            margin-left: 20px;
+            margin-top: 14px;
+            color: #fff;
+            font-size: 14px;
+            width: 80%;
+
+            a{  
+                 display: inline-block;
+                color: #fff;
+              
+              
+            }
+        }
+
+
+        .text-bottom{
+            margin-left: 80px;
+          p{
+              color: #fff;
+              margin-left: 10px;
+          }
+          button{
+              margin-bottom: 10px;
+              margin-left: 60px;
+              border-radius: 2mm;
+              border: none;
+              width: 140px;
+          }
+        }
+    }
+
+
+    .card-two{ 
+        position: absolute;
+        margin-top: 25%;
+        top: 100%;
+        left: 50%;
+        width: 350px;
+        height: 250px;
+        margin-left: 90%;
+        background-color:#10182F;
+        border-radius: 1mm;
+
+        .text{
+            p{
+                color: #fff;
+                text-align: center;
+            }
+            a{
+                margin-left: 35%;
+                color: #fff;
+                text-align: center;
+                margin-top: 10px;
+            }
+        }
+
+        button{
+            margin-left:40%;
+             width: 80px;
+             height: 30px;
+             border-radius:2mm ;
+             border: none;
+             margin-top: 20px;
+        }
+
+        i{
+            margin-top: 30px;
+            font-size: 30px;
+            margin-left:45%;
+            color: #fff;
+        }
+
+    }
+    
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

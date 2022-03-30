@@ -1,0 +1,141 @@
+body {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: #7F7F7F;
+}
+
+body .top {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 80px;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 1mm;
+}
+
+body .top i {
+  margin-left: 10px;
+  margin-top: 5px;
+  color: black;
+}
+
+body .top P {
+  font-weight: 600;
+}
+
+body .card {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  width: 35rem;
+  height: 300px;
+  background-color: #fff;
+  border-radius: 2mm;
+}
+
+body .card .top {
+  width: 70%;
+  background-color: #fff;
+  border: none;
+  margin-left: 50px;
+}
+
+body .card .top h3 {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.753);
+  font-weight: 800;
+}
+
+body .card .top .ico {
+  font-size: 25px;
+  margin-right: -20px;
+}
+
+body .card .middle {
+  margin-top: 80px;
+  width: 30rem;
+}
+
+body .card .middle .icon {
+  position: relative;
+  background-color: white;
+  border: groove;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin-left: 50px;
+}
+
+body .card .middle .icon .insta {
+  position: absolute;
+  color: #ff0062;
+  width: 35px;
+  top: 13px;
+  left: 11px;
+  font-size: 25px;
+}
+
+body .card .middle .icon .print {
+  position: absolute;
+  color: #ff00c8;
+  width: 35px;
+  top: 13px;
+  left: 11px;
+  font-size: 25px;
+}
+
+body .card .middle .icon .youtube {
+  position: absolute;
+  color: red;
+  width: 35px;
+  top: 13px;
+  left: 10px;
+  font-size: 25px;
+}
+
+body .card .middle .icon .twit {
+  position: absolute;
+  color: #0099ff;
+  width: 35px;
+  top: 13px;
+  left: 10px;
+  font-size: 25px;
+}
+
+body .card .middle .icon .whatsapp {
+  position: absolute;
+  color: #07b13a;
+  width: 35px;
+  top: 10px;
+  left: 10px;
+  font-size: 25px;
+}
+
+body .card .end {
+  margin-top: 20px;
+  margin-left: 45px;
+}
+
+body .card .end .link {
+  width: 500px;
+}
+
+body .card .end .input {
+  width: 350px;
+  height: 35px;
+}
+
+body .card .end span {
+  padding: 8px 4px;
+  margin-left: 20px;
+  border: none;
+  color: red;
+}
+
+body .card .end p {
+  color: grey;
+  font-weight: 600;
+}
+/*# sourceMappingURL=main.css.map */
